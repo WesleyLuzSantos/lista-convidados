@@ -1,0 +1,47 @@
+body{
+   font-family: sans-serif;
+}
+
+.titulo{
+    font-weight: 300;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.formulario{
+    background-color: lightgreen;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    border: 5px;
+    
+}
+.formulario{
+    border: 1.5px solid grey;
+    width: 30%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+     
+}
+.formulario input{
+    width: 100%;
+    padding: 10px;
+    border: none b 100px grey;
+    
+}
+.botoes{
+    margin-top: 40px;
+    justify-content: flex-end;
+}
+
+#lista{
+    
+    margin: 50px 800px 50px 800px;
+    justify-content: center;
+    background-color: paleturquoise;
+    padding: 100px 50px 100px 50px;
+    border: 1.5px solid grey;
+
+}
